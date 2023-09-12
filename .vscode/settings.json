@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "D:/PythonScripts/VirtualEnvironments/DataScienceStuff/Scripts/python",
+    // "python.analysis.extraPaths": ["app", "another/path/etc"]
+}
